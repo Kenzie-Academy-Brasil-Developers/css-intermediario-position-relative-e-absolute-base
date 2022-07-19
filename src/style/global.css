@@ -9,12 +9,3 @@
 body {
   font-family: "Inter", sans-serif;
 }
-
-:root {
-  --color-status-online: #099268;
-  --border-radius-1: 8px;
-  --color-grey-1: #212529;
-  --color-grey-2: #495057;
-  --color-grey-3: #f8f9fa;
-  --color-grey-4: #ffffff;
-}
