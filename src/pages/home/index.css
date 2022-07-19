@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: var(--color-grey-3);
+}
+
+.user-card {
+}
+
+.user-card-header {
+}
+
+.user-card-status {
+}
+
+.user-card-header img {
+}
+
+.user-card-content {
+}
+
+.user-card-title {
+}
+
+.user-card-description {
+}
